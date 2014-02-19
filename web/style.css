@@ -1,0 +1,179 @@
+body{
+    
+    background-color: rosybrown;
+}
+
+#cpp{
+    position: absolute;
+    left: 600px;
+    top: 50px;
+}
+#cpp_sub{
+    position: absolute;
+    left: 650px;
+    top: 100px;
+}
+#form1{
+    position: relative;
+    top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 40px;
+    border: 1px solid black;
+    width: 300px;
+    background-color: silver;
+    box-shadow: 10px 10px 10px black;
+}
+#login{
+    background-color: skyblue;
+}
+#form1 table tr td input{
+    border-radius: 5px;
+    box-shadow: 0px 3px 5px black;
+}
+#reg{
+   font-family: snap ITC;
+    position: relative;
+   border: 1px solid black;
+   line-height: 25px;
+    width: 350px;
+   margin-left: auto;
+   margin-right: auto;
+    background-color: slategray;
+    box-shadow: 10px 10px 10px black; 
+}
+#regist{
+    font-family: Algerian;
+  position: absolute;
+    left: 800px;
+    top: 25px;  
+}
+#head{
+    position: absolute;
+    line-height: 40px;
+    left: 200px;
+    top:  20px;
+    border: 1px solid black;
+    width: 300px;
+    background-color: silver;
+    box-shadow: 10px 10px 10px black;
+}
+#cp{
+    position: absolute;
+    top: 5px;
+    left: -150px;
+}
+#chp{
+     position: absolute;
+    line-height: 30px;
+    left: 400px;
+    top:  30px;
+    
+    width: 300px;
+    
+    box-shadow: 10px 10px 10px black;
+}
+
+#chp table tr td{
+    border: 1px solid black;
+    width: 300px;
+    background-color: slategray;
+    box-shadow: 10px 10px 10px black;  
+}
+
+#trq{
+   position: relative;
+    top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 40px;
+    border: 1px solid black;
+    width: 300px;
+    background-color: silver;
+    box-shadow: 10px 10px 10px black; 
+}
+#frgp tr td a{
+     position: absolute;
+    left: 500px;
+    top: 275px;
+    
+}
+#forgpass{
+  position: relative;
+    top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 40px;
+    border: 1px solid black;
+    width: 300px;
+    background-color: silver;
+    box-shadow: 10px 10px 10px black;    
+}
+#font{
+    font-family: ALGERIAN;
+}
+#sb{
+    font: sans-serif;
+    
+   
+}
+#logout{
+    position: absolute;
+    top: 10px;
+    left: 600px;
+}
+#gal{
+    border: 1px solid black;
+    
+    position: absolute;
+    top: 150px;
+    left: 500px;
+    
+}
+#gal1{
+    border: 1px solid black;
+    
+    position: absolute;
+    top: 200px;
+    left: 500px;
+    
+}.templatemo_copyright {
+
+}
+
+.templatemo_copyright {
+
+}
+
+.post_area {
+
+}
+
+.post_area {
+
+}
+
+.templatemo_post_area_right {
+
+}
+#opt{
+    position: absolute;
+    top: 10px;
+    right: 0px;
+    width: auto;
+}
+#login2{
+    background-color: skyblue;
+}
+#dwd{
+    background-color: skyblue;
+}
+#main{
+    background-color: silver;
+}
+#man{
+     position: absolute;
+    top: 10px;
+    right: 0px;
+    width: auto;
+}
